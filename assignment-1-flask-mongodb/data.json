@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Ajay Ingle",
+        "course": "DevOps Engineering",
+        "platform": "TuteDude",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "course": "Full Stack Development",
+        "platform": "TuteDude",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "name": "Priya Patel",
+        "course": "Data Science",
+        "platform": "TuteDude",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Amit Kumar",
+        "course": "Cloud Computing",
+        "platform": "TuteDude",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Sneha Reddy",
+        "course": "Machine Learning",
+        "platform": "TuteDude",
+        "status": "Completed"
+    }
+]
